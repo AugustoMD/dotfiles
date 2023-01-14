@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = augustomedeiros451@gmail.com
+	name = Augusto Medeiros
